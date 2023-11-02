@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm @mzmakm00!
+# 👋 Hi there, I'm Moazzam Akmal
 
 I'm a passionate Full Stack Developer who thrives on turning ideas into digital experiences. 🚀
 
